@@ -1,4 +1,4 @@
-# 牌灵 · Tile Spirit
+# RPG游戏-麻将牌灵
 
 <p align="center">
   <strong>麻将构筑 × 实时动作 Roguelite</strong><br>
@@ -21,10 +21,10 @@
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/title.jpg" alt="《牌灵》标题画面" width="920">
+  <img src="docs/screenshots/title.jpg" alt="《RPG游戏-麻将牌灵》标题画面" width="920">
 </p>
 
-> **《牌灵》是一款把麻将构筑与双摇杆动作战斗揉在一起的 2D 俯视角 Roguelite。**
+> **《RPG游戏-麻将牌灵》是一款把麻将构筑与双摇杆动作战斗揉在一起的 2D 俯视角 Roguelite。**
 > 麻将在本作里不是换皮卡牌，而是你的武器、资源、成长路线和连招核心。
 
 > [!IMPORTANT]
@@ -129,7 +129,7 @@
 
 ## 关于这个仓库
 
-这是《牌灵》的公开可玩版本，仓库根目录中的静态文件即 GitHub Pages 部署内容。
+这是《RPG游戏-麻将牌灵》的公开可玩版本，仓库根目录中的静态文件即 GitHub Pages 部署内容。
 
 - **游玩地址：** https://zsrzzx.github.io/pai-ling-web/
 - **问题反馈：** https://github.com/ZSRZZX/pai-ling-web/issues
