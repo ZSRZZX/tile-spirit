@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://zsrzzx.github.io/pai-ling-web/">
+  <a href="https://zsrzzx.github.io/tile-spirit/">
     <img src="https://img.shields.io/badge/%E2%96%B6_%E7%AB%8B%E5%8D%B3%E5%9C%A8%E7%BA%BF%E6%B8%B8%E7%8E%A9-E34263?style=for-the-badge" alt="立即在线游玩">
   </a>
   <img src="https://img.shields.io/badge/version-v0.13-8B5CF6?style=for-the-badge" alt="v0.13">
@@ -15,9 +15,9 @@
 </p>
 
 <p align="center">
-  <a href="https://zsrzzx.github.io/pai-ling-web/"><strong>▶ 现在开玩</strong></a>
+  <a href="https://zsrzzx.github.io/tile-spirit/"><strong>▶ 现在开玩</strong></a>
   ·
-  <a href="https://github.com/ZSRZZX/pai-ling-web/issues">反馈问题</a>
+  <a href="https://github.com/ZSRZZX/tile-spirit/issues">反馈问题</a>
 </p>
 
 <p align="center">
@@ -131,8 +131,8 @@
 
 这是《RPG游戏-麻将牌灵》的公开可玩版本，仓库根目录中的静态文件即 GitHub Pages 部署内容。
 
-- **游玩地址：** https://zsrzzx.github.io/pai-ling-web/
-- **问题反馈：** https://github.com/ZSRZZX/pai-ling-web/issues
+- **游玩地址：** https://zsrzzx.github.io/tile-spirit/
+- **问题反馈：** https://github.com/ZSRZZX/tile-spirit/issues
 - **源码状态：** 暂未公开
 
 本仓库未附带开源许可证；游戏名称、美术、音频、玩法内容与构建产物版权归作者所有。
