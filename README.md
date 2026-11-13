@@ -125,6 +125,18 @@
 
 新手教程拆成“基础操作、牌型羁绊、听牌和牌”三关，先学会在战场上活下来，再理解三张牌形成的羁绊，最后掌握 13 张听牌与和牌带来的大量属性。
 
+<p align="center">
+  <img src="docs/screenshots/tutorial-tile-effects.png" alt="新手教程：万、饼、条、字牌属性与不同效果" width="960">
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/tutorial-ting.png" alt="新手教程：听牌" width="960">
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/tutorial-win.png" alt="新手教程：和牌" width="960">
+</p>
+
 ### 敌人设计与 itch.io 致谢
 
 <p align="center">
